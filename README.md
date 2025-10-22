@@ -3,7 +3,7 @@
 I'm a student at the **Master of Science in Applied Computing (MScAC)** program at the **University of Toronto**, specializing in Computer Science. My primary interest lies in **Human-in-the-Loop AI applications**, where I explore the intersection of artificial intelligence and human cognition to build systems that leverage the strengths of both human intelligence and machine learning algorithms.
 
 ## My Projects
-### [guided_decoder](https://github.com/JamesChenSH/JamesChenSH/Projects/GuidedDecoder.md)
+### [Guided Decoder](https://github.com/JamesChenSH/JamesChenSH/Projects/GuidedDecoder.md)
 Built on top of debugger used for a research experiment as a debugger for LLM inference time semantic guidance. Users can manipulate the LLM assistant outputs and ask the LLM to continue generation with updated reasoning logic, instead of relying on user messages for guidance.
 
 ### [Audio2Image](https://github.com/JamesChenSH/Audio2Image)
