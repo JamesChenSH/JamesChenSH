@@ -32,7 +32,7 @@ Guided Decoder is a powerful debugger for Large Language Model (LLM) inference t
 
 ## Demo
 
-**The UI serves as a chat interface by default, allowing user interaction just like regular gpt**
+**The UI serves as a chat interface by default, allowing user interaction just like regular GPT**
 ![Regular Chat](https://github.com/JamesChenSH/JamesChenSH/blob/main/image%20(1).png)
 
 **After an initial generation of a query, we will be able to edit the LLM outputs**
