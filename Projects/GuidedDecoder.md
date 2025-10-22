@@ -31,18 +31,18 @@ Guided Decoder is a powerful debugger for Large Language Model (LLM) inference t
 - **User-Centric**: Puts human oversight at the center of AI generation
 
 ## Demo
-- **Step 1**
+### Step 1
 The UI serves as a chat interface by default, allowing user interaction just like regular GPT
 ![Regular Chat Interface](https://github.com/JamesChenSH/JamesChenSH/blob/main/image%20(1).png)
 
-- **Step 2**
+### Step 2
 After an initial generation of a query, we will be able to edit the LLM outputs
 ![Editing LLM Output](https://github.com/JamesChenSH/JamesChenSH/blob/main/image%20(2).png)
 
-- **Step 3**
+### Step 3
 And we can then ask LLM to continue generation by directly continuing the last edited message
 ![Continuing Generation](https://github.com/JamesChenSH/JamesChenSH/blob/main/image%20(3).png)
 
-- **Step 4**
+### Step 4
 In the end, we can observe the probability distribution of the LLM outputs that are newly generated
 ![Probability Distribution View](https://github.com/JamesChenSH/JamesChenSH/blob/main/image%20(4).png)
