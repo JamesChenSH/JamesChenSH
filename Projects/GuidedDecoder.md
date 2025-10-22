@@ -46,3 +46,7 @@ And we can then ask LLM to continue generation by directly continuing the last e
 ### Step 4
 In the end, we can observe the probability distribution of the LLM outputs that are newly generated
 ![Probability Distribution View](https://github.com/JamesChenSH/JamesChenSH/blob/main/image%20(4).png)
+
+## Repo
+
+The repository for code is private as of the update date of this page. Please feel free to reach out if you are interested in more details or would like to see a live demo.
